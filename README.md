@@ -1,6 +1,6 @@
 # NFHS Health Analysis
 
-## Samsung Innovation Campus Hackathon Project
+## Samsung Innovation Campus Practice work
 
 ### Objective
 Analyze the NFHS-5 (National Family Health Survey) dataset to identify health patterns across Indian states.
